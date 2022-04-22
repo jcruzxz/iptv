@@ -364,7 +364,7 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137505
 #EXTINF:-1 tvg-id="" group-title="ANIMES" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png",Anime TV BR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
+http://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 
 
 # Praias Norte
