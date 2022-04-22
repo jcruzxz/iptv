@@ -202,14 +202,14 @@ http://mains.services:2086/stanleyg/6916329/92116
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92119
 
-# 📺 TV Caça e Pesca
+# 📺 TV Caca e Pesca
 
-#EXTINF:-1 group-title="Caça e Pesca" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",CaçaVision
+#EXTINF:-1 group-title="Caça e Pesca" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",CacaVision
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92118
 
-#EXTINF:-1 tvg-id="" group-title="Caça e Pesca" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7a%20e%20Pesca.png",Iberalia
+#EXTINF:-1 tvg-id="" group-title="Caça e Pesca" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7a%20e%20Pesca.png",Caza Y Pesca
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://zonatv.info:45862/RRTTMMCOMPITV/5656TVHT56/1411
