@@ -62,7 +62,7 @@ http://mains.services:2086/stanleyg/6916329/92075
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92072
 
-#EXTINF:-1 group-title="TV Junior",Cartoon Network
+#EXTINF:-1 group-title="TV Junior" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retrocartoon.png,Cartoon Network Vintage
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
@@ -85,22 +85,22 @@ http://51.75.145.124:8000/yucel/15042018/14460
 
 # 📺 TV Filmes
 
-#EXTINF:-1 group-title="TV Filmes",HOLLYWOOD
+#EXTINF:-1 group-title="TV Filmes" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/canal-hollywood-pt.png",HOLLYWOOD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92092
 
-#EXTINF:-1 group-title="TV Filmes",CINEMUNDO
+#EXTINF:-1 group-title="TV Filmes" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/cine-mundo-pt.png",CINEMUNDO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://51.75.145.124:8000/yucel/15042018/14478
 
-#EXTINF:-1 group-title="TV Filmes",FOX Movies
+#EXTINF:-1 group-title="TV Filmes" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/fox-movies-pt.png",FOX Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92088
 
-#EXTINF:-1 group-title="TV Filmes",FOX
+#EXTINF:-1 group-title="TV Filmes" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/fox-pt.png",FOX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92086
@@ -110,22 +110,22 @@ http://mains.services:2086/stanleyg/6916329/92086
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92079
 
-#EXTINF:-1 group-title="TV Filmes",FOX Life
+#EXTINF:-1 group-title="TV Filmes" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/fox-life-pt.png",FOX Life
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92087
 
-#EXTINF:-1 group-title="TV Filmes",FOX Crime
+#EXTINF:-1 group-title="TV Filmes" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/fox-crime-pt.png",FOX Crime
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92089
 
-#EXTINF:-1 group-title="TV Filmes",FOX Comedy
+#EXTINF:-1 group-title="TV Filmes"https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/fox-comedy-pt.png,FOX Comedy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92090
 
-#EXTINF:-1 group-title="TV Filmes",AXN White
+#EXTINF:-1 group-title="TV Filmes" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/axn-white-pt.png",AXN White
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92080
@@ -144,10 +144,30 @@ http://mains.services:2086/stanleyg/6916329/92091
 # 📺 TV Musica
 
 
-#EXTINF:-1 group-title="TV Musicas",MTV
+#EXTINF:-1 group-title="TV Musicas" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",MTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92100
+
+#EXTINF:-1 tvg-id="" group-title="Musicas" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",MTV Hits
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://panel.ooguy.com:9002/mtv_hits.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Musicas" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/mtv%2000.webp",MTV 00s
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://panel.ooguy.com:9002/VH1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Musicas" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png",MTV 90s
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://89.249.49.78:8000/play/a0dw
+
+#EXTINF:-1 tvg-id="" group-title="Musicas" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png", 🎶➾ MTV 80s
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://78.83.191.18:8000/play/a06q
 
 #EXTINF:-1 group-title="TV Musicas",MCM POP
 #KODIPROP:inputstream=inputstream.adaptive
@@ -163,6 +183,31 @@ http://mains.services:2086/stanleyg/6916329/92101
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92105
+
+#EXTINF:-1 tvg-id="" group-title="Musicas" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/musicalatinaparati.png",Musica Latina
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist_w49508185.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Musicas" tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png",Top Latino tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w955335976.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Musicas" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ClassicRock.png",Classic Rock
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdn17.fntvchannel.com/index_1080.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Musicas" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Rock_TV.png",Rock tv 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8?wmsAuthSign=InspirationLinks
+
+#EXTINF:-1 tvg-id="" group-title="Musicas" tvg-logo="https://www.rockland.de/typo3conf/ext/ch_radio21/Resources/Public/icons/rockland/apple-icon-120x120.png",Rocklandᴴᴰ 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 
 
 # 📺 TV Documentario
@@ -192,7 +237,7 @@ http://mains.services:2086/stanleyg/6916329/92112
 # 📺 TV Entretenimento
 
 
-#EXTINF:-1 group-title="TV Entretenimento",24 Kitchen
+#EXTINF:-1 group-title="TV Entretenimento" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/24-kitchen-pt.png",24 Kitchen
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92116
@@ -239,27 +284,27 @@ http://zonatv.info:45862/RRTTMMCOMPITV/5656TVHT56/19797
 # 📺 TV Desporto
 
 
-#EXTINF:-1 group-title="TV Desporto",Sport TV1 HD
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-1-hd-pt.png",Sport TV1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://romanija.xyz:8080/22supertv7753/razmjena5262352/1551
 
-#EXTINF:-1 group-title="TV Desporto",Sport TV2 HD
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-2-hd-pt.png",Sport TV2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://romanija.xyz:8080/22supertv7753/razmjena5262352/1552
 
-#EXTINF:-1 group-title="TV Desporto",Sport TV3 HD
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-3-hd-pt.png",Sport TV3 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://romanija.xyz:8080/22supertv7753/razmjena5262352/1553
 
-#EXTINF:-1 group-title="TV Desporto",Sport TV4 HD
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-4-hd-pt.png",Sport TV4 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92135
 
-#EXTINF:-1 group-title="TV Desporto",Sport TV5 HD
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-5-hd-pt.png",Sport TV5 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://romanija.xyz:8080/22supertv7753/razmjena5262352/1555
