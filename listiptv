@@ -144,7 +144,7 @@ http://mains.services:2086/stanleyg/6916329/92091
 # 📺 TV Musica
 
 
-#EXTINF:-1 group-title="TV Musicas" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",MTV
+#EXTINF:-1 group-title="Musicas" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",MTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92100
@@ -169,17 +169,17 @@ http://89.249.49.78:8000/play/a0dw
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://78.83.191.18:8000/play/a06q
 
-#EXTINF:-1 group-title="TV Musicas",MCM POP
+#EXTINF:-1 group-title="Musicas",MCM POP
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92102
 
-#EXTINF:-1 group-title="TV Musicas",MEZZO
+#EXTINF:-1 group-title="Musicas",MEZZO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92101
 
-#EXTINF:-1 group-title="TV Musicas",VH1
+#EXTINF:-1 group-title="Musicas",VH1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92105
