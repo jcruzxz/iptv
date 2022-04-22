@@ -105,7 +105,7 @@ http://mains.services:2086/stanleyg/6916329/92088
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92086
 
-#EXTINF:-1 group-title="TV Filmes",AXN
+#EXTINF:-1 group-title="TV Filmes" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AXN.png,AXN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92079
@@ -168,22 +168,22 @@ http://mains.services:2086/stanleyg/6916329/92105
 # 📺 TV Documentario
 
 
-#EXTINF:-1 group-title="TV Documentario",DISCOVERY CHANNEL
+#EXTINF:-1 group-title="TV Documentario" tvg-logo="http://tv.10dailythings.com/images/channels/US/local-now-discover-720p/normal.png",DISCOVERY CHANNEL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92110
 
-#EXTINF:-1 group-title="TV Documentario",National Geografic
+#EXTINF:-1 group-title="TV Documentario" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic.png",National Geografic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://fortv.cc:8080/alphonso/alphonso/78486
 
-#EXTINF:-1 group-title="TV Documentario",Historia
+#EXTINF:-1 group-title="TV Documentario" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Historia.png",Historia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92114
 
-#EXTINF:-1 group-title="TV Documentario",ODISSEIA
+#EXTINF:-1 group-title="TV Documentario" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Odisseia.png",ODISSEIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92112
@@ -202,10 +202,39 @@ http://mains.services:2086/stanleyg/6916329/92116
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92119
 
-#EXTINF:-1 group-title="TV Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",CaçaVision
+# 📺 TV Caça e Pesca
+
+#EXTINF:-1 group-title="Caça e Pesca" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",CaçaVision
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92118
+
+#EXTINF:-1 tvg-id="" group-title="Caça e Pesca" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7a%20e%20Pesca.png",Iberalia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://zonatv.info:45862/RRTTMMCOMPITV/5656TVHT56/1411
+
+#EXTINF:-1 tvg-id="" group-title="Caça e Pesca" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/39/ITBB2000001QB_20220404T005631.png",FishingES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://145e69d8f2754bf382ca09be379ac725.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_ItalianFishingTV/ab075ed3-cc5c-457a-8070-22d6cb333030/0.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Caça e Pesca" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Wired2Fish.png", Wired2Fish
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Caça e Pesca" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hunt-channel.png",Hunt Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8?wowzasessionid=inspiration
+
+#EXTINF:-1 tvg-id="" group-title="Caça e Pesca" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/toros.png",Toros tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://zonatv.info:45862/RRTTMMCOMPITV/5656TVHT56/19797
+
+
 
 # 📺 TV Desporto
 
@@ -274,32 +303,32 @@ http://mains.services:2086/stanleyg/6916329/92131
 # 📺 TV OUTROS
 
 
-#EXTINF:-1 group-title="TV OUTROS",HBO
+#EXTINF:-1 group-title="TV OUTROS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",HBO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137492
 
-#EXTINF:-1 group-title="TV OUTROS",NETFLIX
+#EXTINF:-1 group-title="TV OUTROS" tvg-logo="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.png",NETFLIX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137491
 
-#EXTINF:-1 group-title="TV OUTROS",NETFLIX KIDS
+#EXTINF:-1 group-title="TV OUTROS" tvg-logo="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.png",NETFLIX KIDS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137524
 
-#EXTINF:-1 group-title="TV OUTROS",MARVEL 1
+#EXTINF:-1 group-title="TV OUTROS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/250px-Marvel_Studios_2016_logo.svg.png",MARVEL 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137493
 
-#EXTINF:-1 group-title="TV OUTROS",MARVEL 2
+#EXTINF:-1 group-title="TV OUTROS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/250px-Marvel_Studios_2016_logo.svg.png",MARVEL 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137490
 
-#EXTINF:-1 group-title="TV OUTROS",DC
+#EXTINF:-1 group-title="TV OUTROS" tvg-logo="https://www.dccomics.com/sites/all/themes/dc_comics_bp/logo.png",DC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137489
@@ -309,7 +338,7 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137489
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137504
 
-#EXTINF:-1 group-title="TV OUTROS",FILMES ACÇÃO
+#EXTINF:-1 group-title="TV OUTROS",FILMES ACÇAO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137494
@@ -324,10 +353,18 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137497
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137495
 
-#EXTINF:-1 group-title="TV OUTROS",SERIES 24/7
+#EXTINF:-1 group-title="TV OUTROS" tvg-logo="https://iptmod.com/wp-content/uploads/2020/03/new_Watch_Movies_and_TV_Series_Ad-Free_v5.1.5_iptmod.com_.png",SERIES 24/7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137505
+
+
+# 📺 TV ANIMES
+
+#EXTINF:-1 tvg-id="" group-title="ANIMES" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png",Anime TV BR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 
 
 # Praias Norte
