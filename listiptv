@@ -202,7 +202,7 @@ http://mains.services:2086/stanleyg/6916329/92116
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92119
 
-#EXTINF:-1 group-title="TV Entretenimento",CaçaVision
+#EXTINF:-1 group-title="TV Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",CaçaVision
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92118
