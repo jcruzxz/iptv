@@ -412,6 +412,28 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137505
 http://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 
 
+# 📺 RELAX TIME
+#EXTINF:-1 tvg-id="" group-title="RELAX TIME" tvg-logo="https://goo.gl/wYPLrH",Relax 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8?inspiration
+
+#EXTINF:-1 tvg-id="" group-title="RELAX TIME" tvg-logo="https://goo.gl/wYPLrH",Relax 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RELAX TIME" tvg-logo="https://goo.gl/wYPLrH",Relax 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RELAX TIME" tvg-logo="https://goo.gl/wYPLrH",Relax 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+
+
 # Praias Norte
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Praia de Âncora
