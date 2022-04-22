@@ -23,7 +23,7 @@ http://romanija.xyz:8080/22supertv7753/razmjena5262352/1549
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://romanija.xyz:8080/22supertv7753/razmjena5262352/1566
 
-#EXTINF:-1 group-title="TV Nacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
+#EXTINF:-1 group-title="TV Nacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Noticias
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92058
