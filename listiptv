@@ -411,6 +411,11 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137505
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ANIMES" tvg-logo="https://e1.pngegg.com/pngimages/404/547/png-clipart-official-dragonball-super-logo-dragonball-super-text-art-thumbnail.png",Dragon Ball Super
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137512
+
 
 # 📺 RELAX TIME
 #EXTINF:-1 tvg-id="" group-title="RELAX TIME" tvg-logo="https://goo.gl/wYPLrH",Relax 1
@@ -428,7 +433,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="RELAX TIME" tvg-logo="https://goo.gl/wYPLrH",Relax 3
+#EXTINF:-1 tvg-id="" group-title="RELAX TIME" tvg-logo="https://goo.gl/wYPLrH",Relax 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
