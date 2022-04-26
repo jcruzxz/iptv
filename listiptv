@@ -447,7 +447,7 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137500
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ANIMES" tvg-logo="https://e1.pngegg.com/pngimages/404/547/png-clipart-official-dragonball-super-logo-dragonball-super-text-art-thumbnail.png",Dragon Ball Super
+#EXTINF:-1 tvg-id="" group-title="ANIMES",Dragon Ball Super
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137512
