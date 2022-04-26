@@ -288,7 +288,7 @@ http://mains.services:2086/stanleyg/6916329/92118
 #EXTINF:-1 tvg-id="" group-title="Caça e Pesca" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7a%20e%20Pesca.png",Caza Y Pesca
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://zonatv.info:45862/RRTTMMCOMPITV/5656TVHT56/1411
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/240122?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" group-title="Caça e Pesca" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/39/ITBB2000001QB_20220404T005631.png",FishingES
 #KODIPROP:inputstream=inputstream.adaptive
@@ -379,7 +379,7 @@ http://mains.services:2086/stanleyg/6916329/92131
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/btv-pt.png",BENFICA TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://list.iptvcat.com/my_list/s/51ff1bbab050ca64557a9f5d33ce0baf.m3u8
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/161970?checkedby:iptvcat.com
 
 
 # 📺 TV OUTROS
