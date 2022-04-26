@@ -140,7 +140,7 @@ http://mains.services:2086/stanleyg/6916329/92090
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92080
 
-#EXTINF:-1 group-title="TV Filmes",AXN Black
+#EXTINF:-1 group-title="TV Filmes",AXN Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92081
