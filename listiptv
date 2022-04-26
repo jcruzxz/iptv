@@ -376,6 +376,12 @@ http://fortv.cc:8080/alphonso/alphonso/78459
 http://mains.services:2086/stanleyg/6916329/92131
 
 
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/btv-pt.png",BENFICA TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+https://list.iptvcat.com/my_list/s/c9072e3d24f4538ad6ffd92577aa3027.m3u8
+
+
 # 📺 TV OUTROS
 
 
