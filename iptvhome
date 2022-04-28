@@ -56,22 +56,22 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137489
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137504
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://w7.pngwing.com/pngs/662/111/png-transparent-computer-icons-film-web-browser-directory-others-media-film-action-film.png",FILMES ACÇAO
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://i.imgur.com/A4h19mC.png",FILMES ACÇAO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137494
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://w7.pngwing.com/pngs/37/149/png-transparent-abbott-and-costello-brand-logo-advertising-comedy-movie-white-logo-abbott-and-costello.png",FILMES COMEDIA
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://i.imgur.com/o9ICXEz.png",FILMES COMEDIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137497
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://flyclipart.com/thumb2/jackie-chan-adventures-jenesis-890639.png",FILMES JACKIE CHAN ADVENTURES
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://i.imgur.com/2Bv1UFB.png",FILMES JACKIE CHAN ADVENTURES
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137500
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://www.pngfind.com/pngs/m/690-6907273_disney-cinemagic-logo-png-transparent-png.png",Disney CineMagic
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://i.imgur.com/ddJ5MFh.png",Disney CineMagic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137521
