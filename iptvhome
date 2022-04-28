@@ -17,7 +17,7 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137513
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137524
 
-#EXTINF:-1 tvg-id="" group-title="ANIMES" tvg-logo="https://cpng.pikpng.com/pngl/s/90-907219_logo-dragon-ball-super-png-dragon-ball-super.png",Dragon Ball Super
+#EXTINF:-1 tvg-id="" group-title="ANIMES" tvg-logo="https://i.imgur.com/KcoHkp5.png",Dragon Ball Super
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137512
