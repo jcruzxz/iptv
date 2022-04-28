@@ -2,7 +2,7 @@
 
 # 📺 TV Junior
 
-#EXTINF:-1 group-title="TV Junior" tvg-logo="https://pngset.com/images/infinity-war-avengers-logo-symbol-trademark-emblem-wristwatch-transparent-png-401968.png",Vingadores Animação PT
+#EXTINF:-1 group-title="TV Junior" tvg-logo="https://i.ibb.co/RvKsgR1/avangers.png",Vingadores Animação PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137514
