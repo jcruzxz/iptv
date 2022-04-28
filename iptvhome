@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137514
 
-#EXTINF:-1 group-title="TV Junior" tvg-logo="https://img2.gratispng.com/20180721/atx/kisspng-logo-the-movies-hollywood-film-premiere-senior-scams-5b53c3450cb0a8.338133781532216133052.jpg",Filmes Animação PT
+#EXTINF:-1 group-title="TV Junior" tvg-logo="https://i.imgur.com/h9h49DN.png",Filmes Animação PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137513
