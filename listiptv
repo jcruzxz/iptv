@@ -340,37 +340,37 @@ http://mains.services:2086/stanleyg/6916329/92135
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://romanija.xyz:8080/22supertv7753/razmjena5262352/1555
 
-#EXTINF:-1 group-title="TV Desporto",Eleven Sports 1
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-1-icon-pt.png",Eleven Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://mains.services:2086/stanleyg/6916329/92137
 
-#EXTINF:-1 group-title="TV Desporto",Eleven Sports 2
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-2-icon-pt.png",Eleven Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://fortv.cc:8080/alphonso/alphonso/78455
 
-#EXTINF:-1 group-title="TV Desporto",Eleven Sports 3
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-3-icon-pt.png",Eleven Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://fortv.cc:8080/alphonso/alphonso/78456
 
-#EXTINF:-1 group-title="TV Desporto",Eleven Sports 4
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-4-icon-pt.png",Eleven Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://fortv.cc:8080/alphonso/alphonso/78457
 
-#EXTINF:-1 group-title="TV Desporto",Eleven Sports 5
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-5-icon-pt.png",Eleven Sports 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://fortv.cc:8080/alphonso/alphonso/78458
 
-#EXTINF:-1 group-title="TV Desporto",Eleven Sports 6
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-6-icon-pt.png",Eleven Sports 6
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://fortv.cc:8080/alphonso/alphonso/78459
 
-#EXTINF:-1 group-title="TV Desporto",A BOLA
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/a-bola-tv-pt.png",A BOLA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://mains.services:2086/stanleyg/6916329/92131
