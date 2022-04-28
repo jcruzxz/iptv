@@ -36,12 +36,12 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137492
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137491
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/250px-Marvel_Studios_2016_logo.svg.png",MARVEL 1
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://i.imgur.com/alxNBPm.png",MARVEL 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137493
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://i.imgur.com/RICw985.png",MARVEL 2
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/250px-Marvel_Studios_2016_logo.svg.png",MARVEL 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137490
